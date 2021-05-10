@@ -5,3 +5,6 @@ Welcome to ipl
 rcb
 mi
 kkr
+
+SRH 
+DC
